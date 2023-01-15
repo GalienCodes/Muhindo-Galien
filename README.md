@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Blockchain developer</h3>
 <h4 align="center">With a strong focus on full-stack web2/web3 development</h4>
 
-- 📫 How to reach me **galiencodes@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
