@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhindo Galien</h1>
-<h3 align="center">A passionate Blockchain developer from DRCongo</h3>
-<h4 align="center">With a strong focus on full-stack web development</h4>
+<h3 align="center">A passionate Blockchain developer</h3>
+<h4 align="center">With a strong focus on full-stack web2/web3 development</h4>
 
-- 🔭 I’m currently working on **Yodor**
+- 📫 How to reach me **galiencodes@gmail.com**
 
-- 🌱 I’m currently learning **Blockchain development**
-
-- 👯 I’m looking to collaborate on **OSCA**
-
-- 📫 How to reach me **muhindogalien512@gmail.com**
-
-- ⚡ Fun fact **I think, I'm crazy about Tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
