@@ -5,6 +5,6 @@
 [![Muhndi Galien Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@galiendev)
 
 
-<p align="left">I'm a passionate Smart Contract/Blockchain Software Engineer</h3>
+<p align="left">I'm a passionate Smart Contract/Blockchain Engineer</h3>
 
 
