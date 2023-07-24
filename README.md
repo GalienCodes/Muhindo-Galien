@@ -6,6 +6,7 @@
 
 
 <p align="left">I'm a passionate Smart Contract/Blockchain Engineer</h3>
+
 -  💻 Currently working on backend systems and smart contracts
 -  👯 Looking to collaborate on EVM blockchain projects.
 - 👁️ Looking to work with companies using the blockchain to impact the world
