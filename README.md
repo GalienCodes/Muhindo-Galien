@@ -6,8 +6,6 @@
 
 
 <p align="left">I'm a passionate Smart Contract/Blockchain Engineer</h3>
-
-- ⚙ Blockchain Security Research Fellowship applicant @ <a href="https://www.openzeppelin.com/jobs/opening?gh_jid=5670297003">openzeppelin<a/>
 -  💻 Currently working on backend systems and smart contracts
 -  👯 Looking to collaborate on EVM blockchain projects.
 - 👁️ Looking to work with companies using the blockchain to impact the world
