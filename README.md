@@ -5,13 +5,13 @@
 [![Muhndi Galien Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@galiendev)
 
 
-<p align="left">I'm a passionate Smart Contract/Blockchain Engineer</h3>
+<p align="left">I'm a senior Smart Contract/Blockchain Engineer</h3>
 
 -  💻 Currently working on backend systems and smart contracts
 -  👯 Looking to collaborate on EVM blockchain projects.
 - 👁️ Looking to work with companies using the blockchain to impact the world
 - 🔭 Looking also to contribute more to opensource.
-- 💬 Ask me about solidity
+- 💬 Ask me about solidity & Rust
 -  📧 How to reach me: <a href="galiencodes13@gmail.com">galiencodes13@gmail.com<a/>
 
 
